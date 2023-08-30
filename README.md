@@ -11,6 +11,11 @@
   ##### Exemplo: (CPF: 000.000.000.00 > Aqui o cpf é separado por pontos, então o usuário precisa inserir apenas os números que o plugin insere os pontos automaticamente).
   
 ### Layout:
-  ![image](https://github.com/arthurt520/exercicio_plugins_jquery/assets/74931965/521c474b-689c-4df7-b786-2aa93d25d75f)
+
+  Após inserir os dados, eles são mascarados conforme imagem abaixo:
+  
+  ![image](https://github.com/arthurt520/exercicio_plugins_jquery/assets/74931965/ca02bbd6-3036-4a27-9bdb-9c561a5704c1)
+
+
 
 Para acessar esse projeto e testá-lo, clique no link a seguir: https://exercicio-plugins-jquery-chi.vercel.app/
